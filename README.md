@@ -14,7 +14,7 @@ Le principe est de réussir à placer huit dames sur un échiquier de 8x8 cases 
 ---
 
 ## Prérequis :
-La bibliothèque graphique `ncurses`.
+La bibliothèque graphique `ncurses`.  
 Peut être installée avec la commande : `sudo apt-get install libncurses5-dev libncursesw5-dev`
 
 ## Usage :
