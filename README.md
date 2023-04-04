@@ -29,4 +29,4 @@ Vous pouvez taper `make clean` pour nettoyer le projet.
 Pour savoir comment jouer, regardez la documentation utilisateur.
 
 **Documentation Technique et Utilisateur :**  
-Voir le fichier [rapport.pdf]()
+Voir le fichier [rapport.pdf](https://github.com/syltran/casse-tete-des-huit-dames/blob/master/rapport.pdf)
